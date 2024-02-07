@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# printing open sockets and their ports
+sudo netstat -pl
